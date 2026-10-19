@@ -10,7 +10,7 @@
 </div>
 
 ## what is strwFingerprint?
-strwFingerprint was a passion project I started when I left the cheating community. the whole idea behind the project was to take everything I learned from being in that community and then using it against them, which eventually turned into strwFingerprint. initially strwFingerprint was relatively basic, as it checked the following things only:
+strwFingerprint was a passion project I started when I left the cheating community. the whole idea behind the project was to take everything I learned from being in that community and then using it against them, which eventually turned into strwFingerprint. the philosophy behind it was that anticheats are far too cat and mouse, especially considering the fact that it's lua vs c++, so I just turned to the actual root of the problem. if the cheaters cant even join your server, then there's no need for an anticheat. initially strwFingerprint was relatively basic, as it checked the following things only:
 - a cookie inside cl.db and \data\
 - timestamps in \html\ (persistent)
 - timestamps in \bin\ (persistent)
